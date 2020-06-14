@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1056941328307",
+    "firebase_url": "https://vitqp-f0077.firebaseio.com",
+    "project_id": "vitqp-f0077",
+    "storage_bucket": "vitqp-f0077.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056941328307:android:1449848c38d94b47",
+        "android_client_info": {
+          "package_name": "com.harryh5n1.vitqp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056941328307-jbrqqkjlk6c82ve9c8db6e70updkp33f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harryh5n1.vitqp",
+            "certificate_hash": "040a59597870b5fe5bc10971722e65a8753c9de4"
+          }
+        },
+        {
+          "client_id": "1056941328307-7mger0iap0rirf4vqcv72sci7gjrs3de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW6_1KARwoUMr-QRN2zpG2roxTHwN56Dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056941328307-7mger0iap0rirf4vqcv72sci7gjrs3de.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
